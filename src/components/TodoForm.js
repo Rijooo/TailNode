@@ -45,7 +45,7 @@ const TodoForm = (props) => {
           <>
             <MdOutlineEditNote size={35} />
             <input
-              placeholder="Add a todo"
+              placeholder="Add a todo activity"
               value={input}
               onChange={handleChange}
               name="text"
